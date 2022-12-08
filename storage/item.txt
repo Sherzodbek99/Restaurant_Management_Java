@@ -1,0 +1,5 @@
+Chicken Rice Kebab,10500.0,0
+Lamb Rice Kebab,11000.0,29
+Iskendar Kebab,16500.0,8
+Chicken Doner Kebab,6800.0,50
+Lamb Kebab,11200.0,12
